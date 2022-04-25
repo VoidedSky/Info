@@ -1,17 +1,17 @@
 &6&lServer Rules:
 
-&3&l| 1 | Be respectful to all members and staff.
-&3&l| 2 | Do not ask staff for free items.
-&3&l| 3 | Impersonating staff members or other players strictly prohibited.
-&3&l| 4 | Any malicious modifications to your client is strictly prohibited.
-&3&l| 5 | Using an alternate account to bypass a ban is not allowed.
-&3&l| 6 | All players must have appropriate usernames that are not offensive.
-&3&l| 7 | Your Minecraft skin must be appropriate for our community and not offensive.
-&3&l| 8 | Do not build any type of farm with the purpose to cause lag to the server.
-&3&l| 9 | Do not grief on a large scale. 
-&3&l| 10 | Advertisments of any kind will result in a permanent mute.
-&3&l| 11 | Malicious threats of any kind towards other players are not permitted.
-&3&l| 12 | Profanity, racism, and discrimination are prohibited in public chat.
-&3&l| 13 | Do not talk or joke about inappropriate subjects.
-&3&l| 14 | Do not scam other players, or try to.
-&3&l| 15 | All staff decisions are final.
+&3| &b1 &3| &fBe respectful to all members and staff.
+&3| &b2 &3| &fDo not ask staff for free items.
+&3| &b3 &3| &fImpersonating staff members or other players strictly prohibited.
+&3| &b4 &3| &fAny malicious modifications to your client is strictly prohibited.
+&3| &b5 &3| &fUsing an alternate account to bypass a ban is not allowed.
+&3| &b6 &3| &fAll players must have appropriate usernames that are not offensive.
+&3| &b7 &3| &fYour Minecraft skin must be appropriate for our community and not offensive.
+&3| &b8 &3| &fDo not build any type of farm with the purpose to cause lag to the server.
+&3| &b9 &3| &fDo not grief on a large scale. 
+&3| &b10 &3| &fAdvertisments of any kind will result in a permanent mute.
+&3| &b11 &3| &fMalicious threats of any kind towards other players are not permitted.
+&3| &b12 &3| &fProfanity, racism, and discrimination are prohibited in public chat.
+&3| &b13 &3| &fDo not talk or joke about inappropriate subjects.
+&3| &b14 &3| &fDo not scam other players, or try to.
+&3| &b15 &3| &fAll staff decisions are final.
