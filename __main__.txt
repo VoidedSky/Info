@@ -1,20 +1,18 @@
 &6&lServer Rules:
 
-&3| &b1 &3| &fBe respectful to all members and staff.
-&3| &b2 &3| &fDo not ask staff for free items.
-&3| &b3 &3| &fImpersonating staff members or other players strictly prohibited.
-&3| &b4 &3| &fAny attempt to gain an unfair advantage over other players is not allowed. This includes, but is not limited to, combat cheats, x-ray, speed hacks, and other similar modifications.
+&3| &b1 &3| &fBe respectful to all staff and users.
+&3| &b2 &3| &fDo not ask staff members for free items.
+&3| &b3 &3| &fImpersonating staff members or other players is strictly prohibited.
+&3| &b4 &3| &fAny attempt to gain an unfair advantage over other players is not allowed. This includes, but is not limited to, combat cheats, x-ray, speed hacks, and other similar illegal modifications.
 &3| &b5 &3| &fUsing alternate accounts to bypass any form of punishment is not allowed.
-&3| &b6 &3| &fAll players must have appropriate usernames that are not offensive.
-&3| &b7 &3| &fYour Minecraft skin must be appropriate for our community and not offensive.
-&3| &b8 &3| &fBuilding anything meant to lag or crash the server is not allowed.
-&3| &b9 &3| &fDo not grief on a large scale; Can only large scale grief if you have intent. Can not be for just for laughs or random chaos.
-&3| &b10 &3| &fAdvertisments of any kind will result in a permanent mute.
-&3| &b11 &3| &fMalicious threats(Regarding  out of game selves) or any kind towards other players are not permitted.
-&3| &b12 &3| &fHarassing, discriminating(racism included), abusing, or threatening other users is strictly prohibited.
-&3| &b13 &3| &fDo not talk or joke about inappropriate subjects.
-&3| &b14 &3| &fDo not scam people through IRL means. I.e. Having people paypal you money for ingame resources. You may trick people by saying you'll trade diamonds for iron but giving them lapiz instead of diamonds.
-&3| &b15 &3| &fCreating anything that intentionally or unintentionally lags the server is not permitted.
-&3| &b16 &3| &fAll staff decisions are final. 
-&3| &b17 &3| &fAutomation is allowed(AFK fish farming like stuff).
-&3| &b18 &3| &fThe list is not exhaustive, mods can ban or punish for what they feel poses an unfair advantage or safety threat to the server.
+&3| &b6 &3| &fAll players must have appropriate usernames and skins that are not offensive or deemed inappropriate.
+&3| &b7 &3| &fBuilding anything meant to lag or crash the server is not allowed, whether intentionally or unintentionally.
+&3| &b8 &3| &fDo not grief on a large scale. You can only grief on a large scale if you have intent. The grief can not be for just for laughs or random chaos.
+&3| &b9 &3| &fAdvertisments of any kind (e.g. youtube channels, twitch channels, etc.) will result in a permanent mute.
+&3| &b10 &3| &fMalicious threats (threats involving another player's real life person) or any other kind of malicious threads towards other players for any reason is not permitted.
+&3| &b11 &3| &fHarassment, discrimination (racism included), abuse, or threatening other users is strictly prohibited.
+&3| &b12 &3| &fDo not talk or joke about subjects that are not appropriate for the server.
+&3| &b13 &3| &fDo not scam people through IRL means (for example: having users PayPal you for in-game resources). Scamming through the means of two in-game currencies (i.e. lapis instead of diamons) is permitted.
+&3| &b14 &3| &fAll staff decisions are final.
+&3| &b15 &3| &fAutomation is allowed (i.e. AFK Fish Farms).
+&3| &b16 &3| &fThe list is not completely exhaustive, moderators can ban or punish for what they deem is an unfair advantage or threatens the server's safety.
