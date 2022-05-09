@@ -7,7 +7,7 @@
 &3| &b5 &3| &fUsing alternate accounts to bypass any form of punishment is not allowed.
 &3| &b6 &3| &fAll players must have appropriate usernames and skins that are not offensive or deemed inappropriate.
 &3| &b7 &3| &fBuilding anything meant to lag or crash the server is not allowed, whether intentionally or unintentionally.
-&3| &b8 &3| &fDo not grief on a large scale. You can only grief on a large scale if you have intent. The grief can not be for just for laughs or random chaos.
+&3| &b8 &3| &fDo not grief on a large scale. You can only grief on a large scale if you have probable cause. The grief can not be for just for laughs or random chaos.
 &3| &b9 &3| &fAdvertisments of any kind (e.g. youtube channels, twitch channels, etc.) will result in a permanent mute.
 &3| &b10 &3| &fMalicious threats (threats involving another player's real life person) or any other kind of malicious threads towards other players for any reason is not permitted.
 &3| &b11 &3| &fHarassment, discrimination (racism included), abuse, or threatening other users is strictly prohibited.
