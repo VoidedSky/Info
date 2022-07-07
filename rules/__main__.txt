@@ -19,3 +19,4 @@
 &3| &b17 &3| &fYou must broadcast a national announcement before declaring war or attacking another nation. This broadcast must somehow reach the opposing nation's leader! Else you can be punished for any rules for destroying individuals items and also be punished for items such as harrassment if continuous assaults without an announcement declaring war.
 &3| &b18 &3| &fYou cannot declare war on a nation while in said nation's territory. This does NOT include declaring independence.
 &3| &b19 &3| &fThe list is not completely exhaustive, moderators can ban or punish for what they deem is an unfair advantage or threatens the server's safety.
+&3| &b20 &3| &fDO NOT, in any circumstance, try to loophole the rules! If you do so, it is an immediate ban of 7d>14d>30d>Perma!
